@@ -24,7 +24,7 @@ h1{
     text-transform: uppercase;
 }
 
-.content-paragraph > p::first-letter{
+.content-paragraph::first-letter{
     font-weight: bold;
 }
 
