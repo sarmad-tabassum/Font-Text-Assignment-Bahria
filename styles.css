@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700&family=Quantico:ital,wght@0,400;1,400&display=swap');
+
+*{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color: blue;
+    text-align: center;
+}
+
+#main-title {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.intro-paragraph{
+    font-style: italic;
+    line-height: 1.5;
+}
+
+.content-paragraph{
+    text-transform: uppercase;
+}
+
+p::first-letter{
+    font-weight: bold;
+}
+
+.nav-link{
+    text-decoration: none;
+    color: green;
+}
+
+.color-box p{
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+#main-title {
+  font-family: 'Orbitron', sans-serif;
+  font-optical-sizing: auto;
+}
+
+.intro-paragraph{
+  font-family: "Quantico", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+  font-size: 1.2rem;
+}
