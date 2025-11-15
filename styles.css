@@ -26,7 +26,7 @@ h1{
 
 .content-paragraph::first-letter{
     font-weight: bold;
-    font-size: 25px;
+    font-size: 45px;
 }
 
 .nav-link{
